@@ -1,4 +1,4 @@
 __test__
 .venv
 .vscode
-*/__pycache__
+service_account.json
